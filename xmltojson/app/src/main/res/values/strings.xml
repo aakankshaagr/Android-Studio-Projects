@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">xmltojson</string>
+    <string name="longitude">Longitude</string>
+    <string name="aakanksha_agrawal">Aakanksha Agrawal</string>
+    <string name="data">Data</string>
+    <string name="city_name">City name</string>
+    <string name="latitude">Latitude</string>
+    <string name="temperature">Temperature</string>
+    <string name="humidity">Humidity</string>
+    <string name="xml">xml</string>
+    <string name="json">json</string>
+</resources>

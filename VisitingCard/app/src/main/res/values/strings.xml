@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">VisitingCard</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="www_cmrit_ac_in">www.cmrit.ac.in</string>
+    <string name="title">Title</string>
+    <string name="address">Address</string>
+    <string name="email">Email</string>
+    <string name="website">Website</string>
+    <string name="student">Student</string>
+    <string name="_6203137812">6203137812</string>
+    <string name="_2nd_main_c_block_aecs">2nd main C-block Aecs</string>
+    <string name="name">Name</string>
+    <string name="aaag19cs_cmrit_ac_in">aaag19cs@cmrit.ac.in</string>
+    <string name="cmrit">CMRIT</string>
+    <string name="aakanksha_agrawal">Aakanksha Agrawal</string>
+    <string name="phone_no">Phone No</string>
+    <string name="todo">TODO</string>
+</resources>
